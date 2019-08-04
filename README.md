@@ -1,4 +1,4 @@
-# SkillsCollector
+# Repozytorium projektu SkillsCollector
 project number 
 
 
